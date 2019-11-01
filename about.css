@@ -1,0 +1,49 @@
+/*about section css*/
+
+#section-about {
+	padding-top: 10%;
+	padding-bottom: 8%; 
+}
+.about-image {
+	height: 100%;
+	width: 100%;
+}
+
+.about-info {
+	padding-left: 10%;
+	text-align: left;
+}
+
+.about-quote {
+	font-style: italic;
+}
+
+.about-content {
+	display: flex;
+	flex-direction: row; 
+}
+
+
+/*Progress Bars*/
+.progress-bars {
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.progress-bar-bar {
+	background: #302B2B;
+	color: white;
+	border-radius: 20px;
+	display: flex;
+	flex-direction: row;
+}
+
+
+
+
+
+
+
+
+

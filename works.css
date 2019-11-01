@@ -1,0 +1,37 @@
+.section-works {
+  color: white;
+  width: 50%
+  height: 100%;
+  text-align: center;
+}
+
+.row-card:after {
+  content: "";
+  display: table;
+  clear: both;
+  color: white;
+  float: center;
+}
+
+.web-box-but {
+  background-color: grey;
+  border-radius: 15px;
+  border-color: none;
+  color: white;
+
+  text-align: center;
+}
+.column-web-card {
+  float: left;
+  width: 50%;
+  padding: 50px;
+  padding-top: 10%;
+  height: 450px;
+  text-align: center;
+  font-size: 20px;
+  border-color: 1px solid white;
+}
+
+.column-web-card h1 {
+  font-size: 72px;
+}
